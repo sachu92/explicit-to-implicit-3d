@@ -1,6 +1,7 @@
 # Implicit surface reconstruction
 
 Input: A pointcloud with coordinates and normals
+
 Output: A regular mesh with the signed distance function (in VTK format) 
 
 Uses Radial Basis Function with a triharmonic kernel
