@@ -1,6 +1,4 @@
 # Implicit surface reconstruction
-## Author : Sachin Krishnan T V
-## Date : 20/02/2020
 
 Input: A pointcloud with coordinates and normals
 Output: A regular mesh with the signed distance function (in VTK format) 
